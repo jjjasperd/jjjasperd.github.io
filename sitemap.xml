@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/Reverse-Integer/index.html</loc>
+    <lastmod>2015-02-06T18:39:02.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2015/02/06/Reverse-Integer/</loc>
     <lastmod>2015-02-06T18:22:11.000Z</lastmod>
   </url>
